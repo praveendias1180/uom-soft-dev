@@ -31,3 +31,7 @@ https://www.lucidchart.com/blog/how-to-draw-architectural-diagrams
 # Software as Programming?
 
 ![Programming?](programming.png)
+
+# Architecture Process Recap
+
+![Archi Process](archi-process.png)
