@@ -59,3 +59,7 @@ https://www.digitalocean.com/community/conceptual_articles/s-o-l-i-d-the-first-f
 # Design Patterns
 
 ![Des Patt](Design-patterns.png)
+
+## Gang of 4
+
+![Go4](go4.png)
