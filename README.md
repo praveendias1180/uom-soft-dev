@@ -67,3 +67,7 @@ https://www.digitalocean.com/community/conceptual_articles/s-o-l-i-d-the-first-f
 ## Architecture Stack
 
 ![Archi Stack](archi-stack.png)
+
+## DDD = Domain Driven Design
+
+![DDD](ddd.png)
