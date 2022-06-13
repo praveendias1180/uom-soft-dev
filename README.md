@@ -9,3 +9,7 @@ Software architecture refers to the fundamental structures of a software system 
 ![Process](process.png)
 
 ![Am I](ami.png)
+
+# Problem Analysis
+
+![Analysis](analysis.png)
