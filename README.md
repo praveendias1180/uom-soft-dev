@@ -41,3 +41,7 @@ https://www.lucidchart.com/blog/how-to-draw-architectural-diagrams
 ![ISO 25000](iso25000.png)
 
 https://iso25000.com/index.php/en/iso-25000-standards/iso-25010
+
+# Design Principles
+
+![Liskov](liskov.png)
