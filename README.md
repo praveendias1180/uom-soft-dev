@@ -71,3 +71,6 @@ https://www.digitalocean.com/community/conceptual_articles/s-o-l-i-d-the-first-f
 ## DDD = Domain Driven Design
 
 ![DDD](ddd.png)
+
+
+![Need for an architect](took-more-time.png)
