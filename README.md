@@ -63,3 +63,7 @@ https://www.digitalocean.com/community/conceptual_articles/s-o-l-i-d-the-first-f
 ## Gang of 4
 
 ![Go4](go4.png)
+
+## Architecture Stack
+
+![Archi Stack](archi-stack.png)
