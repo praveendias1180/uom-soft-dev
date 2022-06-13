@@ -51,3 +51,7 @@ https://iso25000.com/index.php/en/iso-25000-standards/iso-25010
 ![Solid](solid.png)
 
 https://www.digitalocean.com/community/conceptual_articles/s-o-l-i-d-the-first-five-principles-of-object-oriented-design
+
+# System Design
+
+![Sys Des](sys-dis.png)
