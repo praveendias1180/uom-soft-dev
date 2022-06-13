@@ -27,3 +27,7 @@ https://en.wikipedia.org/wiki/Use_case_diagram
 An architecture diagram is a visual representation of all the elements that make up part, or all, of a system. Above all, it helps the engineers, designers, stakeholders — and anyone else involved in the project — understand a system or app’s layout.
 
 https://www.lucidchart.com/blog/how-to-draw-architectural-diagrams
+
+# Software as Programming?
+
+![Programming?](programming.png)
