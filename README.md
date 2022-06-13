@@ -55,3 +55,7 @@ https://www.digitalocean.com/community/conceptual_articles/s-o-l-i-d-the-first-f
 # System Design
 
 ![Sys Des](sys-dis.png)
+
+# Design Patterns
+
+![Des Patt](Design-patterns.png)
