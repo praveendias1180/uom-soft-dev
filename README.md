@@ -45,3 +45,9 @@ https://iso25000.com/index.php/en/iso-25000-standards/iso-25010
 # Design Principles
 
 ![Liskov](liskov.png)
+
+## SOLID
+
+![Solid](solid.png)
+
+https://www.digitalocean.com/community/conceptual_articles/s-o-l-i-d-the-first-five-principles-of-object-oriented-design
